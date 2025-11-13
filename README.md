@@ -1,6 +1,6 @@
 # Python for All 
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4f6bb7ab-bf89-4712-9a6c-a313e642e0c4" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5c079f60-8eef-4567-bd54-d6ccf8740c25" />
 
 ## Get My Award Winning eBook
 
